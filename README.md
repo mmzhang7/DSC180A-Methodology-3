@@ -1,2 +1,3 @@
-# Maggie Zhang
-# maz007@ucsd.edu
+# DSC180A-Methodology-3
+# Maggie Zhang and Ruofei Mao 
+
